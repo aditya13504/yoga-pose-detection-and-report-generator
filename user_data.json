@@ -1,0 +1,41 @@
+{
+    "personal_info": {
+        "name": "aditya",
+        "age": 19,
+        "height": 180.0,
+        "weight": 80.0,
+        "fitness_level": "beginner"
+    },
+    "medical_history": {
+        "conditions": [
+            "a",
+            "b",
+            "f",
+            "e"
+        ],
+        "injuries": [
+            "t",
+            "ew",
+            "d",
+            "g",
+            "h"
+        ],
+        "limitations": [
+            "ajn",
+            "w",
+            "r",
+            "f",
+            "a"
+        ]
+    },
+    "yoga_experience": {
+        "years_practicing": 4.0,
+        "frequency_per_week": 2,
+        "favorite_poses": [
+            "tree"
+        ],
+        "challenging_poses": [
+            "sd"
+        ]
+    }
+}
